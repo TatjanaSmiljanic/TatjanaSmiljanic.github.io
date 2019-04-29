@@ -1,3 +1,9 @@
+---
+layout: post
+title: USA cities
+subtitle: 
+---
+
 city,state,lon,lat,lon1,lat1
 New York,New York,-8234229.297,4970380.761,-8234229.297,4970380.761
 Philadelphia,Pennsylvania,-8368867.37,4858182.367,-8368867.37,4858182.367
