@@ -24,7 +24,22 @@ description: Course about TNT-Tools and Techniques for Digital Humanities
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources: "resources"
+  Lessons: 
+    - 01. CM and AW I: "01"
+    - 02. Command Line: "02"
+    - 03. VC and Collaboration: "03"
+    - 04. CM and AW II: "04"
+    - 05. Georeferencing: "05"
+    - 06. RegEx: "06"
+    - 07. Webscraping: "07"
+    - 08. Text Markup [XML]: "08"
+    - 09. Structuring data: "09"
+    - 10. Text to Map (1/2): "10"
+    - 11. Text to Map (2/2): "11"
+    - 12. TM: "12"
+    - 13. SNA: "13"
+ 
+ Resources: "resources"
  
 
 
