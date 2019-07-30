@@ -22,7 +22,7 @@
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
-navbar-links:
+# navbar-links:
   About Me: "aboutme"
   Lessons: 
     - 01. CM and AW I: "01"
@@ -39,7 +39,7 @@ navbar-links:
     - 12. TM: "12"
     - 13. SNA: "13"
  
- Resources: "resources"
+# Resources: "resources"
  
 
 
