@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Tatjana Smiljanic Website
+title: Tatjana Smiljanic
 
 # Short description of your site
 description: Course about TNT-Tools and Techniques for Digital Humanities
@@ -59,11 +59,11 @@ navbar-col: "#E6E6FA"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
-link-col: "#E6E6FA"
+link-col: "#000000"
 hover-col: "#0085A1"
 footer-col: "#E6E6FA"
 footer-text-col: "#777777"
-footer-link-col: "#E6E6FA"
+footer-link-col: "#000000"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
