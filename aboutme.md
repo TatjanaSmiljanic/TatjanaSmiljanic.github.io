@@ -9,5 +9,5 @@ My name is Tatjana Smiljanic and I come from Bosnia and Herzegovina. At this mom
 - Economic and Social History
 - Women's and Gender History
 
-Actually, this is a second master's degree. In 2008, I finished a master's in Economics at University of Belgrade.
+Actually, this is my second master's degree. In 2008, I finished a master's in Economics at University of Belgrade.
 My hobbies are reading interesting books, yoga, tasting delicious food and travel.
