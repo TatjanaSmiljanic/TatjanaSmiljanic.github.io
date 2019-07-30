@@ -4,10 +4,10 @@ title: About me
 subtitle: 
 ---
 
-My name is Tatjana Smiljanic, I come from Bosnia and Herzegovina and am studying history at University of Vienna with key research areas:
+My name is Tatjana Smiljanic and I come from Bosnia and Herzegovina. At this moment, I am studying a master's in History at University of Vienna with key research areas:
 
 - Economic and Social History
-- Woman's and Gender history
+- Women's and Gender History
 
-Actually, this is my second master's degree. I finished master's degree in Economics at University of Belgrade.
+Actually, this is a second master's degree. In 2008, I finished a master's in Economics at University of Belgrade.
 My hobbies are reading interesting books, yoga, tasting delicious food and travel.
