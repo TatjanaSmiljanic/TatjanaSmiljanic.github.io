@@ -48,7 +48,7 @@ navbar-links:
     - 06. Python, Unit 11-12: "2019-05-26-post"
     - 07. Python, Complete: "2019-08-13-post"
     
- Resources: "resources"
+ # Resources: "resources"
 
 
 # Image to show in the navigation bar - image must be a square (width = height)
