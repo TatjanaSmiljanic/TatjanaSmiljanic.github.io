@@ -39,14 +39,14 @@ navbar-links:
     - 11. Text to Map (2/2): "11"
     - 12. TM: "2019-08-12-post"
     - 13. SNA: "13"
-    Python:
-     - 01. Python, Unit 1-2: "2019-04-08-post"
-     - 02. Python, Unit 3-4: "2019-04-26-post"
-     - 03. Python, Unit 5-6: "2019-05-06-post"
-     - 04. Python, Unit 7-8: "2019-05-14-post"
-     - 05. Python, Unit 9-10: "2019-05-17-post"
-     - 06. Python, Unit 11-12: "2019-05-26-post"
-     - 07. Python, Complete: "2019-08-13-post"
+  Python:
+    - 01. Python, Unit 1-2: "2019-04-08-post"
+    - 02. Python, Unit 3-4: "2019-04-26-post"
+    - 03. Python, Unit 5-6: "2019-05-06-post"
+    - 04. Python, Unit 7-8: "2019-05-14-post"
+    - 05. Python, Unit 9-10: "2019-05-17-post"
+    - 06. Python, Unit 11-12: "2019-05-26-post"
+    - 07. Python, Complete: "2019-08-13-post"
     
  
 Resources: "resources"
